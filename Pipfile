@@ -9,6 +9,9 @@ behave = "*"
 
 [packages]
 responder = "*"
+pyjwt = "*"
+sqlalchemy = "*"
+sqlalchemy-migrate = "*"
 
 [requires]
 python_version = "3.6"
