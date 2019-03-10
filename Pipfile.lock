@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bc6df12cc5f93ed0c6376763f2097e11451ccf0589d2b1bb8162a2a1a378b6f6"
+            "sha256": "df233aee18898f87d7d6d690edc8df3389091e546aaca4b5d6804b0ac07f70ca"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,10 +59,10 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:47f9c83ef4c0c621eaef743f133f09fa8a74a9b75f037e8624f83bd1b6626cb7",
-                "sha256:993f830721089fef441cdfeb4b2c8c9df86f0c63239f06bd025a76a7daddb033"
+                "sha256:59b7658e26ca9c7339e00f8f4636cdfe59d34fa37b9b04f6f9e9926b3cece1a5",
+                "sha256:b26104d6835d1f5e49452a26eb2ff87fe7090b89dfcaee5ea2212697e1e1d7ae"
             ],
-            "version": "==2018.11.29"
+            "version": "==2019.3.9"
         },
         "chardet": {
             "hashes": [
@@ -180,10 +180,10 @@
         },
         "marshmallow": {
             "hashes": [
-                "sha256:6eeaf1301a5f5942bfe8ab2c2eaf03feb793072b56d5fae563638bddd7bb62e6",
-                "sha256:f72a206432a3369dd72824564d18d915761e07805c05f00d0dcc7885fac1e385"
+                "sha256:f2668d41a817aaaf6106d9922479bd1a97cae240dfac0eb7e320e0c29148a084",
+                "sha256:f8e51314623247b5c444e460b2bbb04aee102ca1ce7fb27bb16e3107cb81dfe9"
             ],
-            "version": "==2.18.1"
+            "version": "==2.19.0"
         },
         "parse": {
             "hashes": [
@@ -312,6 +312,14 @@
             ],
             "version": "==0.5.2"
         },
+        "ulid-py": {
+            "hashes": [
+                "sha256:94d894e8174ab35d3b55e6dc9b8b29c774de0c28ea104e7b228efa05b7215600",
+                "sha256:9cd95dca1b366d85e0d12d03bf54b1224af56c97380868bb4f3385fcc6a85620"
+            ],
+            "index": "pypi",
+            "version": "==0.0.9"
+        },
         "urllib3": {
             "hashes": [
                 "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
@@ -321,9 +329,9 @@
         },
         "uvicorn": {
             "hashes": [
-                "sha256:834bb46391741e208ad55801ee2802c8d9de9bdf290e3174710574d0a8977f87"
+                "sha256:8d523d0a003a874245025295b0c1233a762402c0d4c3988017401c6b461c83e9"
             ],
-            "version": "==0.5.0"
+            "version": "==0.5.1"
         },
         "websockets": {
             "hashes": [

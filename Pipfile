@@ -11,6 +11,7 @@ behave = "*"
 responder = "*"
 pyjwt = "*"
 sqlalchemy = "*"
+ulid-py = "*"
 sqlalchemy-migrate = "*"
 
 [requires]
